@@ -1,3 +1,3 @@
 # Go Custom Data Types
 
-Go Custom Datatypes
+Learning go custom datatypes from Plularsight
